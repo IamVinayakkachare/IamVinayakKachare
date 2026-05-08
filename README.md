@@ -13,7 +13,7 @@
 - 🌱 Learning **Advanced Selenium & API Automation**
 - 👨‍💻 Passionate about **Software Testing & QA**
 - 💬 Ask me about **Java, Selenium, TestNG, XPath, Automation Framework**
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **Kacharevinayak007@gmail.com**
 - ⚡ Fun fact: *I break applications to make them stronger 😄*
 
 ---
@@ -27,9 +27,9 @@
 <img src="https://skillicons.dev/icons?i=java" height="50"/>
 <img src="https://skillicons.dev/icons?i=selenium" height="50"/>
 <img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
 <img src="https://skillicons.dev/icons?i=eclipse" height="50"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+
 
 </p>
 
@@ -65,22 +65,6 @@
 ### 🔹 API Testing Collection
 - REST API testing using Postman
 - Validated response codes and JSON data
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
