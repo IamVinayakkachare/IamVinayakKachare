@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinu K</h1>
+<h1 align="center">Hi 👋, I'm Vinayak</h1>
 <h3 align="center">QA Engineer | Selenium Automation Tester | Java Enthusiast</h3>
 
 <p align="center">
